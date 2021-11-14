@@ -81,7 +81,7 @@ O resultado da matriz de confusão foi dada da seguinte maneira:
 
 # Resultado 
 
-Depois do treino e teste é hora de colocar o modelo para produção da previsão.
+Depois do treino e teste é hora de colocar o modelo para produção da previsão dos novos clientes.
 
 E os resultado foi:
 
